@@ -12,5 +12,5 @@ if (l == 0) :
         print("x ix a leap year")         
 else: 
         print("x is not a leap year")    
-         
+print ("program has finished")
 
